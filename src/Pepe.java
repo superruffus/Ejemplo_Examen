@@ -14,5 +14,5 @@
  *
  */
 public class Pepe {
-
+ int b = 4;
 }
